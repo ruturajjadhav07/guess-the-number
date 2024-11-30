@@ -39,6 +39,7 @@ function Component() {
   return (
     <div>
       <h1>Guess The Number Game</h1>
+      <h3>0 to 10</h3>
       <input
         placeholder="Enter number"
         onChange={handleClick}
